@@ -3,11 +3,12 @@
   "appName": "N.Air HVAC Solutions",
   "webDir": "www",
   "server": {
-    "url": "http://192.168.31.236:8000",
-    "cleartext": true,
-    "androidScheme": "http"
+    "url": "https://entering-undiluted-slinging.ngrok-free.dev",
+    "cleartext": false,
+    "androidScheme": "https"
   },
   "android": {
-    "allowMixedContent": true
+    "allowMixedContent": false,
+    "overrideUserAgent": "NAirHVAC-App/1.0"
   }
 }

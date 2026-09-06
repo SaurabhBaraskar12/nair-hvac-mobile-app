@@ -19,7 +19,7 @@ on:
 
 env:
   # ▼▼▼ THE ONLY LINE YOU NORMALLY CHANGE ▼▼▼
-  SERVER_URL: "http://192.168.31.236:8000"
+  SERVER_URL: "https://entering-undiluted-slinging.ngrok-free.dev"
   # ▲▲▲ (local PC IP for now; swap for the Frappe Cloud https URL later) ▲▲▲
 
 jobs:
